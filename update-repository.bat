@@ -60,7 +60,7 @@ cd C:\Users\%USERNAME%\Desktop\fullstackopen
 echo ***************************************************************************************************
 echo.
 git add .
-git rm --cached updaye-repository.bat
+git rm --cached updaye-repository.bat 
 echo.
 echo ***************************************************************************************************
 echo.
